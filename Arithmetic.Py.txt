@@ -1,0 +1,11 @@
+# Programmer : Jonas Stoy
+# Progam : Arithmetic operations
+# First created : 08/29/2022 08:32:00 CST
+# Last changed : 08/29/2022 08:32:00 CST
+# Version : Python 3.8.2
+
+print("Arithmetic Operations")
+firstInput = 5 
+secondInput = 10
+
+print("sum of given numbers is ", firstInput+secondInput)
